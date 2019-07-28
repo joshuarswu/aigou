@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>aigou-config</artifactId>
+    <artifactId>aigou-config-server</artifactId>
 
 
 </project>
